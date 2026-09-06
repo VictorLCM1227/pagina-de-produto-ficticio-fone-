@@ -1,0 +1,24 @@
+.container {
+  display: flex; 
+  align-items: center; 
+  gap: 15px; 
+  width: 500px;
+  background-color: aliceblue;
+  margin: auto;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 50PX;
+}
+
+.container img {
+  width: 150px; /* Define um tamanho para a imagem */
+}
+
+body {
+    text-align: center;
+    background-color: gray;
+}
+
+div > p {
+    text-align: left;
+}
